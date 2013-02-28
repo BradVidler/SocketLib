@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ServerTest", "ServerTest\ServerTest.vcxproj", "{C4145D0C-7A5E-482F-A751-6ACC251D0DF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientTest", "ClientTest\ClientTest.vcxproj", "{1E129A06-E500-4216-9153-AE7E548740AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StaticLibSockets", "StaticLibSockets\StaticLibSockets.vcxproj", "{535B6DB6-01A8-4779-A494-F0D7716B4274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4145D0C-7A5E-482F-A751-6ACC251D0DF2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4145D0C-7A5E-482F-A751-6ACC251D0DF2}.Debug|Win32.Build.0 = Debug|Win32
+		{C4145D0C-7A5E-482F-A751-6ACC251D0DF2}.Release|Win32.ActiveCfg = Release|Win32
+		{C4145D0C-7A5E-482F-A751-6ACC251D0DF2}.Release|Win32.Build.0 = Release|Win32
+		{1E129A06-E500-4216-9153-AE7E548740AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1E129A06-E500-4216-9153-AE7E548740AC}.Debug|Win32.Build.0 = Debug|Win32
+		{1E129A06-E500-4216-9153-AE7E548740AC}.Release|Win32.ActiveCfg = Release|Win32
+		{1E129A06-E500-4216-9153-AE7E548740AC}.Release|Win32.Build.0 = Release|Win32
+		{535B6DB6-01A8-4779-A494-F0D7716B4274}.Debug|Win32.ActiveCfg = Debug|Win32
+		{535B6DB6-01A8-4779-A494-F0D7716B4274}.Debug|Win32.Build.0 = Debug|Win32
+		{535B6DB6-01A8-4779-A494-F0D7716B4274}.Release|Win32.ActiveCfg = Release|Win32
+		{535B6DB6-01A8-4779-A494-F0D7716B4274}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
